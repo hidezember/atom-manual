@@ -2,14 +2,14 @@
 atom-manual 翻译
 
 
-####Chapter 1: Getting Started
+#### Chapter 1: Getting Started
 
 -  1.1 Why Atom
 -  1.2 Installing Atom
 -  1.3 Atom Basics
 -  1.4 Summary
 
-####Chapter 2: Using Atom
+#### Chapter 2: Using Atom
 
 -     2.1 Atom Packages
 -     2.2 Moving in Atom
@@ -26,7 +26,7 @@ atom-manual 翻译
 -     2.13 Basic Customization
 -     2.14 Summary
 
-####Chapter 3: Hacking Atom
+#### Chapter 3: Hacking Atom
 
 -     3.1 Tools of the Trade
 -     3.2 The Init File
@@ -39,7 +39,7 @@ atom-manual 翻译
 -     3.9 Converting from TextMate
 -     3.10 Summary
 
-####Chapter 4: Behind Atom
+#### Chapter 4: Behind Atom
 
 -     4.1 Configuration API
 -     4.2 Keymaps In-Depth
@@ -50,7 +50,7 @@ atom-manual 翻译
 -     4.7 Maintaining Your Packages
 -     4.8 Summary
 
-####Chapter 5: Upgrading to 1.0 APIs
+#### Chapter 5: Upgrading to 1.0 APIs
 
 -     5.1 Upgrading Your Package
 -     5.2 Upgrading Your UI Theme Or Package Selectors
